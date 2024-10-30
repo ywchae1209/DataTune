@@ -23,7 +23,7 @@ In this scenario we'll use docker-container
 
 #### 2. run container
 ```
-docker-compose up -f docker.yml up
+docker-compose -f docker.yml up
 ```
 * docker.yml : located at resources directory.
 * this will create and start container. 
